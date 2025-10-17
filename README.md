@@ -2,7 +2,7 @@
 
 ### Document Navigation
 
-[Business Plan](./nature_restoration_fund_business_plan.md)
+[Business Plan](./nature%restoration%fund%business%plan)
 
 [Financial Analysis](./fund_financial_analysis.md)
 
